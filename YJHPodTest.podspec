@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.llalalalalalla
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'YJHPodTest/Classes/**/*'
+  s.source_files = 'YJHPodTest/Classes/*.{h,m}'
   
   # s.resource_bundles = {
   #   'YJHPodTest' => ['YJHPodTest/Assets/*.png']
