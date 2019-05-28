@@ -16,6 +16,9 @@
  @param date 给定的时间点
  @return 特定的时间点距离现在的描述
  */
+
+
+
 NSString * GOCompareCurrrentTime(NSDate *date){
     
     NSTimeInterval  timeInterval = [date timeIntervalSinceNow];
